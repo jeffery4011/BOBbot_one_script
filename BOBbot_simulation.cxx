@@ -17,7 +17,6 @@ int main(int argc, char* argv[])
   else{
     const int NB = std::stoi(argv[1]);
     const int NR = std::stoi(argv[2]);
-    n = inputValue;
   }
   double R0=0.50; //radius of the ring
   double RB=0.03; // radius of a BOBbot
