@@ -11,6 +11,8 @@
 
 int main(int argc, char* argv[])
 {
+  int NB = 0;
+  int NR = 0;
   int n = 0;
     if (argc < 2) {
     n = 10;
